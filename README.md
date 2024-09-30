@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
+![2Xqy](https://github.com/user-attachments/assets/9b342733-6e95-4736-bbee-6e7574967dbd)
+
 ![1NdL](https://github.com/user-attachments/assets/cf656384-3308-4594-90dc-38a3eecda570)
 
 <h3 align="left">Connect with me:</h3>
