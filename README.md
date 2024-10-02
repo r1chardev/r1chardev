@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif?raw=true" width="25px"> I'm Ricardo Andrés Parra Caballero
 >
-<p><em>BackEnd Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+><p><em>BackEnd Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="240">
 
