@@ -6,24 +6,24 @@
 
 <div>
   <p>
-👨‍💻 Hola, soy Ricardo Parra, un desarrollador Backend con más de 3 años de experiencia en el mundo tecnológico, actualmente trabajando con .NET Core.
+👨‍💻 Hola, soy Ricardo Parra, un desarrollador Full-Stack con más de 3 años de experiencia en el mundo tecnológico, actualmente trabajando con Python, .NET Core y React.
 
 La creatividad y el conocimiento son el motor de mi trabajo. Me apasiona construir sistemas robustos que optimizan la comunicación y el manejo de bases de datos, asegurando un código limpio y efectivo.
 
 🧠 Habilidades
 ▪️ Desarrollo enfocado en la gestión de bases de datos y la conectividad de sistemas.
 ▪️ Prácticas de código limpio y diseño efectivo de APIs.
-▪️ Dominio de múltiples tecnologías Backend: Python con Django, Java con Spring Boot y PHP con Laravel.
+▪️ Dominio de múltiples tecnologías Backend: Python con Django, C# con .NET y Java con SpringBoot.
 ▪️ Enfoque proactivo y compromiso con el aprendizaje continuo.
 ▪️ Fuertes habilidades de trabajo en equipo y mentoría.
 ▪️ Nivel de inglés básico/intermedio (B1).
 
 🚀 Tecnologías 
-📌 .NET Core, C#, Python, Spring Boot, PHP, SQL Server, MySQL.
+📌 .NET Core, C#, Python, Java, SpringBoot, Docker, PHP, SQL Server, Django, FastApi ,MySQL, React, VueJS, Astro.
 📌 Actualmente explorando nuevas tendencias en el ámbito tecnológico.
 
 ⚙️ Herramientas 
-📌 Git, GitHub, Azure, SQL Server Management Studio, Azure Data Studio.
+📌 Git, GitHub, Azure, SQL Server Management Studio, Azure Data Studio, Apache Airflow, BurpSuite.
 
 💎 Intereses Personales
 🌟 En mi tiempo libre, disfruto aprender creando nuevos proyectos y explorando tecnologías emergentes que introducen soluciones innovadoras. También me apasiona el hacking ético y la ciberseguridad, áreas cruciales para la protección de la información.
