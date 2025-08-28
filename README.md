@@ -7,11 +7,12 @@
 
 <div>
   <p>
+    <p>
 👨‍💻 Hola, soy Ricardo Parra, un desarrollador Full-Stack con más de 3 años de experiencia en el mundo tecnológico, actualmente trabajando con Python, .NET Core y React.
-
-La creatividad y el conocimiento son el motor de mi trabajo. Me apasiona construir sistemas robustos que 
-<img width="200" height="197" alt="image" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" />
-optimizan la comunicación y el manejo de bases de datos, asegurando un código limpio y efectivo.
+<img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="200" height="197" align="right">
+</p>
+  
+La creatividad y el conocimiento son el motor de mi trabajo. Me apasiona construir sistemas robustos que optimizan la comunicación y el manejo de bases de datos, asegurando un código limpio y efectivo.
 
 🧠 Habilidades
 ▪️ Desarrollo enfocado en la gestión de bases de datos y la conectividad de sistemas.
