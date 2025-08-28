@@ -2,7 +2,7 @@
 >
 ><p><em>Full-Stack Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<img width="200" height="197" alt="image" src="https://github.com/user-attachments/assets/c2101fae-3ee2-48c6-b4d6-4f9a3746f156" />
+<img width="200" height="197" alt="image" src="https://media.tenor.com/BZoEL5iyZv4AAAAj/player-play.gif" />
 
 
 <div>
