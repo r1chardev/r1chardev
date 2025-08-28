@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif?raw=true" width="25px"> I'm Ricardo Andrés Parra Caballero
 >
-><p><em>Full-Stack Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+><p><em>Full-Stack Developer.</a><img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="30"></em></p>
 
 <img width="200" height="197" alt="image" src="https://media1.tenor.com/m/wKNqmz5FgUIAAAAC/coin-money.gif" />
 
