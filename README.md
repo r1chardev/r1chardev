@@ -2,7 +2,7 @@
 >
 ><p><em>Full-Stack Developer. </em></p>
 
-<img width="200" height="197" alt="image" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" align="right" />
+<img width="200" height="197" alt="image" src="https://media.tenor.com/y_4aZBELqosAAAAj/bongo-cat.gif" align="right" />
 
 <div>
   <p>
