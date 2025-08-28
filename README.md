@@ -2,7 +2,7 @@
 >
 ><p><em>Full-Stack Developer. </em></p>
 
-<img width="100" height="197" alt="image" src="https://media1.tenor.com/m/ifXZEfDRq_cAAAAd/amor.gif" align="right" />
+<img width="200" height="400" alt="image" src="https://media1.tenor.com/m/ifXZEfDRq_cAAAAd/amor.gif" align="right" />
 
 <div>
   <p>
