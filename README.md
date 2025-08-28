@@ -37,7 +37,7 @@ La creatividad y el conocimiento son el motor de mi trabajo. Me apasiona constru
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats-nine-kappa-34.vercel.app/api?username=r1chardev&theme=midnight-purple&show_icons=true&count_private=true&bg_color=00000000" />
+        <img  align="center"  src="https://github-readme-stats-nine-kappa-34.vercel.app/api?username=r1chardev&theme=midnight-purple&show_icons=true&count_private=true&theme=transparent" />
         <br></br>
         <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ricardo Parra" src="https://github-readme-stats-nine-kappa-34.vercel.app/api?username=r1chardev&theme=midnight-purple&hide_border=false&show_icons=true&count_private=true" />
       </td>
